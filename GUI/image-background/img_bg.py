@@ -9,6 +9,9 @@ window = tk.Tk()
 
 # 이미지 로드
 image = Image.open("image.jpg")
+# png 사용 시 다음과 같이 간단하게 사용할 수 있으나 
+# jpg및 resize등의 재처리가 필요하다면 PIL패키지 활용
+# img = tk.PhotoImage(file='image.png')
 
 # 이미지 크기 조정
 image = image.resize((200, 200), Image.ANTIALIAS)
