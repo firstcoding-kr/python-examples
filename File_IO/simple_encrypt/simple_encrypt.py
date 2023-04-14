@@ -1,4 +1,5 @@
-pw = 20
+pw = 123123
+pw = pw % 11 - 27 # 간단한 패스워드 공식
 
 def encrypt(text):
     result = ""
