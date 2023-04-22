@@ -1,5 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+# 설치: 
+# pip install requests
+# pip install BeautifulSoup4
 
 # 지역 입력
 region = input("지역을 입력하세요: ")
