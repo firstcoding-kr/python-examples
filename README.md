@@ -7,5 +7,6 @@
 ### COS Pro 2급 모의고사
 - [연습문제 풀기 (프로그래머스)](https://school.programmers.co.kr/learn/courses/33/33-cos-pro-2%EA%B8%89-python-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
-### COS Pro 2급 기출문제
-- [기출문제 풀기 (구름)](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
+### COS Pro 기출문제
+- [1급 기출문제 풀기 (구름)](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
+- [2급 기출문제 풀기 (구름)](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
