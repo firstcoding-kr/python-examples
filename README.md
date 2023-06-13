@@ -20,3 +20,6 @@
 
 ### tkinter 튜토리얼
 - https://tkdocs.com/tutorial/index.html
+
+## GUI - PyQt5
+ - [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램 (위키독스)](https://wikidocs.net/21849)
