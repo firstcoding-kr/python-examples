@@ -1,6 +1,8 @@
 # python-examples
 파이썬 수업자료 및 예제파일 저장소
 
+>파이썬 기초 강의 수업 자료는 학원 홈페이지 [프로그램] → [강의자료] → [파이썬 강의자료 PDF]를 참고하시기 바랍니다.
+
 ## COS Pro 시험
 - [소개 및 일정보기 (와이비엠)](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)
 
