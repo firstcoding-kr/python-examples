@@ -31,3 +31,6 @@
 
 ### BeautifulSoup (크롤링) 래퍼런스
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+### pandas 래퍼런스
+- https://pandas.pydata.org/docs/reference/index.html
