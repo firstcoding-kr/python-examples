@@ -61,3 +61,6 @@ print(df)
 # value로 정렬 (키 큰 사람)
 df.sort_values('키', ascending=False, inplace=True)
 print(df)
+
+# 여러 컬럼 기준으로 정렬
+print(df.sort_values(['수학', '영어'], ascending=[True, False]))
