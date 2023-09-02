@@ -29,5 +29,30 @@
  - [PyQt 래퍼런스](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
  - [Qt for Python](https://doc.qt.io/qtforpython-5/contents.html)
 
-### BeautifulSoup (크롤링) 래퍼런스
+## BeautifulSoup (크롤링) 래퍼런스
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+## 주피터 노트북(Jupyter Notebook) 설치
+- pip 업그레이드하기
+  ```
+  pip install --upgrade pip
+  ```
+- 주피터 노트북(Jupyter Notebook) 패키지 다운받기
+  ```
+  pip install jupyter
+  ```
+- CMD창에서 다음 명령으로 실행한다.
+  ```
+  jupyter notebook
+  ```
+
+## Data분석
+
+### pandas 래퍼런스
+- https://pandas.pydata.org/docs/reference/index.html
+
+### matplotlib 래퍼런스
+- https://matplotlib.org/stable/plot_types/index.html
+
+## Pygame
+ - [참고자료](https://wikidocs.net/93544)
