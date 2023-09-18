@@ -28,6 +28,10 @@
 ### COS Pro 기출문제
 - [1급 기출문제 풀기 (구름)](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
 - [2급 기출문제 풀기 (구름)](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
+
+### CodeUp 문제
+ - [Python 기초 100제](https://codeup.kr/problemsetsol.php?psid=33)
+ - [Python 문제집](https://codeup.kr/problemset.php?page=21)
 </details>
 
 ## GUI
