@@ -41,6 +41,7 @@
 ### GUI - tkinter
 
 #### tkinter 래퍼런스
+- [tkinter 간단 사용법](https://wikidocs.net/132610)
 - https://docs.python.org/ko/3/library/tkinter.html
 - https://tkdocs.com/shipman/
 
