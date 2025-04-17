@@ -73,7 +73,7 @@
 
 ### matplotlib 래퍼런스
 - https://matplotlib.org/stable/plot_types/index.html
-- [atplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
+- [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 </details>
 
 ## Pygame
